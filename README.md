@@ -18,6 +18,8 @@ https://www.coursera.org/learn/pca-machine-learning
 
 ## Machine Learning
 
+https://www.coursera.org/learn/machine-learning
+
 ## Deep Learning
 
 ### Neural Networks
@@ -35,3 +37,7 @@ https://www.coursera.org/learn/machine-learning-projects
 ### Convolutional Neural Networks
 
 https://www.coursera.org/learn/convolutional-neural-networks
+
+### Sequence Models
+
+https://www.coursera.org/learn/nlp-sequence-models
